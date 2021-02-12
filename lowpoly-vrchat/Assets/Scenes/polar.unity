@@ -340,7 +340,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launchedFromSDKPipeline: 0
   completedSDKPipeline: 0
-  blueprintId: 
+  blueprintId: avtr_7fea7d79-a1e6-4d16-9c9c-30ae556ce79c
   contentType: 0
   assetBundleUnityVersion: 
 --- !u!114 &1284490841
@@ -366,7 +366,7 @@ MonoBehaviour:
   VisemeSkinnedMesh: {fileID: 0}
   MouthOpenBlendShapeName: Facial_Blends.Jaw_Down
   VisemeBlendShapes: []
-  unityVersion: 
+  unityVersion: 2018.4.20f1
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   customExpressions: 0
