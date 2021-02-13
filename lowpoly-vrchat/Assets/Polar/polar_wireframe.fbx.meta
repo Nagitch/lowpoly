@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 835e281ec54b91547bbe28e678d97ca4
+guid: cf1756a57f70ca64abc2ceefbdddc06b
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -57,7 +57,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: polar
-    second: {fileID: 2100000, guid: 67db7a3215786214b9860a9534015804, type: 2}
+    second: {fileID: 2100000, guid: 7eab1d5af460c0f45ba773708d25ef6f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
